@@ -26,4 +26,4 @@ readable layout and keymap definitions for use with @nickcoutsos' [keymap-editor
 
 For the keymap-editor to do its job, it will need write access to the github repo it's pointing at.
 
-If you want to use the keymap-editor for your Rosa keyboard and you are not this repository's author, please fork this repo first and substitute any reference to `pierrechevalier83` in the README with you own username. (Don't modify `config/west.yml` except if you plan to maintain your own zmk fork as well).
+If you want to use the keymap-editor for your Rosa keyboard and you are not this repository's author, please fork this repo first and substitute any reference to `pierrechevalier83` in the README with you own username.

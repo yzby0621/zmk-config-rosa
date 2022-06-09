@@ -1,0 +1,8 @@
+file_format: "1"
+id: rosa
+name: Rosa
+type: shield
+url: https://www.cuddlykeyboards.com
+requires: [pro_micro]
+features:
+  - keys
