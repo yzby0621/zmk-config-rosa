@@ -1,0 +1,8 @@
+file_format: "1"
+id: h65
+name: h65
+type: shield
+url: 
+requires: [nrfmicro_13_52833]
+features:
+  - keys
